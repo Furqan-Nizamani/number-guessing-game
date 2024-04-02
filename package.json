@@ -1,10 +1,13 @@
 {
-  "name": "number-guessing-game",
-  "version": "1.0.0",
+  "name": "@furqannizamani/number-guessing_game_project01",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
